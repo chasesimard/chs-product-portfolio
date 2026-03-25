@@ -1,32 +1,60 @@
-# chs-product-portfolio - Product Portfolio
+# Chase Harper-Simard – AI Product / Technical PM Portfolio
 
-I am a product-minded operator working at the intersection of AI, customer success, workflow design, technical implementation, and commercialization.
+I operate at the intersection of AI product management, technical workflow design, customer insight, implementation reality, and commercialization.
 
-My experience includes translating customer pain points into product improvements, shaping AI assistant workflows, improving automation and escalation logic, defining operational requirements, and helping move AI solutions from prototype toward production-ready execution.
+My background combines frontline exposure to real user pain with hands-on work shaping AI assistants, voice workflows, automation logic, escalation design, adoption strategy, and operational rollout. I am especially interested in AI Product Manager and Technical Product Manager roles where product quality depends not only on the model, but on orchestration, observability, evaluation, fallback design, and business execution.
 
-This portfolio contains product case studies and supporting artifacts that demonstrate how I think through:
-- problem definition
-- user pain points
-- product requirements
-- workflow design
-- prioritization
-- metrics and monitoring
-- launch readiness
-- adoption and business impact
+This portfolio is designed to demonstrate how I think about shipping AI products in production environments, with a focus on:
 
-## Case Studies
+- agent and assistant reliability
+- workflow and orchestration design
+- observability and evaluation systems
+- human handoff and fallback logic
+- adoption, rollout, and operational constraints
+- pricing, value realization, and expansion
+
+## What’s in this portfolio
+
+### Case Studies
 - [AI Assistant Improvement Case Study](case-studies/ai-assistant-improvement.md)
 - [Voice / Automation Product Workflow Case Study](case-studies/voice-automation-workflow.md)
 - [Pricing / Operations / Adoption Case Study](case-studies/pricing-operations-adoption.md)
 
-## Supporting Product Artifacts
+### Artifacts
+- [Agent Observability and Evals Framework](artifacts/agent-observability-and-evals-framework.md)
 - [PRD Example](artifacts/prd-template-example.md)
 - [AI Assistant Metric Tree](artifacts/metric-tree-ai-assistant.md)
 - [Launch Readiness Checklist](artifacts/launch-readiness-checklist.md)
 - [Prioritization Framework](artifacts/prioritization-framework.md)
 
-## About Me
-- [About Me](about-me.md)
+## How I think about modern AI product systems
+
+A strong AI product is not just a model wrapped in UI. In practice, production quality depends on the system around the model:
+
+- orchestration and tool reliability
+- trace-level observability
+- offline and online evaluation
+- retrieval quality and context integrity
+- escalation logic and fallback behavior
+- latency, cost, and operational resilience
+
+Depending on the stack and team context, this can involve platforms and tooling such as:
+
+- LangChain / LangGraph for orchestration
+- LangSmith for tracing, debugging, and eval workflows
+- Langfuse for open observability and telemetry
+- Amazon Bedrock / AgentCore for managed AWS-native agent execution
+- CloudWatch / OpenTelemetry-based telemetry for runtime monitoring
 
 ## Focus Areas
-AI Product Management, Technical Product Management, Workflow Automation, Voice AI, Product Operations, Product Strategy, Customer-Centered Product Development
+- AI Product Management
+- Technical Product Management
+- Agentic Workflow Design
+- Voice and Conversational AI
+- Product Observability and Evals
+- Workflow Automation
+- Product Operations
+- Commercialization and Adoption Strategy
+
+## About Me
+- [About Me](about-me.md)
